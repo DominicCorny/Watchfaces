@@ -1,0 +1,31 @@
+{
+    "author": "kern.dominic@web.de",
+    "dependencies": {},
+    "keywords": [],
+    "name": "dommelface",
+    "pebble": {
+        "displayName": "DommelFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/Tank",
+                    "name": "tank_image",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "408ada59-7281-4e4c-b11a-1826d8f6fff0",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
